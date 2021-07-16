@@ -2,4 +2,5 @@ puts 'Hello World!'
 puts 'branch aaa を追加した'
 puts 'bbb を追加した'
 puts 'cccをbbbから切った'
-# いいいいい
+puts 'dddで切った'
+puts 'rrrにリモートのdddを取り込んだ'
